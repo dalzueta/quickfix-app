@@ -132,7 +132,7 @@ public class Acceptor {
     if(type.equalsIgnoreCase("acceptor")){
       socket =  new SocketAcceptor(acceptorFix, storeFactory, settings, logFactory, messageFactory);
     }else {
-      // initiator
+      // initiatorddddddd
 
 
 
